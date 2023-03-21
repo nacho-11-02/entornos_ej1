@@ -6,6 +6,9 @@ text-align:center;
 background-color:purple;
 color:white;
 }
+h2{
+    color: aquamarine;
+}
 body
 {
 background-image:url("fondo.jpg");
